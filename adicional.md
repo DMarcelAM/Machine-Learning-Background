@@ -18,7 +18,7 @@ catkin build
 
 Lo que hizo el comando `catkin build` fue convertir la carpeta `reto_playtec_ws` en un espacio de trabajo de ROS a través de la generación de distintos archivos y carpetas. Así luce un espacio de trabajo de ROS:
 
-<img src="Imagenes/image1.png" width ="380" height=200><br>
+<img src="image1.png" width ="380" height=200><br>
 
 ### 2) Creación del paquete reto_ros dentro del workspace reto_playtec_ws/src<br><br>
 
